@@ -17,13 +17,7 @@ excerpt: "I considered two questions about the board game <a title=\"Wikipedia a
 image: risk-die.jpg
 wordpress_id: 509
 wordpress_url: http://www.danallan.com/?p=509
-categories:
-- title: Projects
-  slug: projects
-  autoslug: projects
-- title: Computing
-  slug: computing
-  autoslug: computing
+categories: projects computing
 tags:
 - title: games
   slug: games

@@ -3,10 +3,7 @@ layout: post
 title: Tourist
 wordpress_id: 2393
 wordpress_url: http://www.danallan.com/?p=2393
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags: []
 ---
 

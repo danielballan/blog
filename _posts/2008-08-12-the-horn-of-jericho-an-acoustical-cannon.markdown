@@ -12,13 +12,7 @@ excerpt: "With a giant glass pipe, a slice of ceramic cut from a diesel exhaust 
 image: 100_4067.jpg
 wordpress_id: 131
 wordpress_url: http://www.danallan.com/?p=131
-categories:
-- title: Projects
-  slug: projects
-  autoslug: projects
-- title: Contraptions
-  slug: contraptions
-  autoslug: contraptions
+categories: projects contraptions
 tags:
 - title: John Wight
   slug: john-wight

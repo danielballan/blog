@@ -4,13 +4,7 @@ title: Couples' Dreidel
 image: 800px-Colorful_dreidels2.jpg
 wordpress_id: 1667
 wordpress_url: http://www.danallan.com/?p=1667
-categories:
-- title: Projects
-  slug: projects
-  autoslug: projects
-- title: Computing
-  slug: computing
-  autoslug: computing
+categories: projects computing
 tags: []
 ---
 

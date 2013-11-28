@@ -4,16 +4,7 @@ title: Oldmember
 image: oldmember.jpg
 wordpress_id: 54
 wordpress_url: http://www.danallan.com/?p=54
-categories:
-- title: High School
-  slug: hs
-  autoslug: high-school
-- title: The Attic
-  slug: attic
-  autoslug: the-attic
-- title: Photoshop Creations
-  slug: hs-photos
-  autoslug: photoshop-creations
+categories: the-attic high-school photoshop-creations
 tags:
 - title: Mr. Ruocco
   slug: mr-ruocco

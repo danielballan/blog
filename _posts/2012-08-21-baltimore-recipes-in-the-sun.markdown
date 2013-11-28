@@ -3,10 +3,7 @@ layout: post
 title: Baltimore Recipes in the Sun
 wordpress_id: 2233
 wordpress_url: http://www.danallan.com/?p=2233
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags:
 - title: recipes
   slug: recipes

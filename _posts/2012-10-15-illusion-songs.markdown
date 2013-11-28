@@ -3,10 +3,7 @@ layout: post
 title: Illusion Songs
 wordpress_id: 2466
 wordpress_url: http://www.danallan.com/?p=2466
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags: []
 ---
 [![](http://www.danallan.com/wp-content/uploads/2012/10/Timbre-171x106.png "Timbre")](http://www.danallan.com/wp-content/uploads/2012/10/Timbre.png)

@@ -11,13 +11,7 @@ excerpt: "<a title=\"Wikipedia article\" href=\"http://en.wikipedia.org/wiki/Uno
 image: uno.jpg
 wordpress_id: 102
 wordpress_url: http://www.danallan.com/?p=102
-categories:
-- title: Projects
-  slug: projects
-  autoslug: projects
-- title: Computing
-  slug: computing
-  autoslug: computing
+categories: projects computing
 tags:
 - title: games
   slug: games

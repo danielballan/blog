@@ -3,10 +3,7 @@ layout: post
 title: Time-Reversal Poetry
 wordpress_id: 2241
 wordpress_url: http://www.danallan.com/?p=2241
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags:
 - title: Mark Twain
   slug: mark-twain

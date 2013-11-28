@@ -5,10 +5,7 @@ excerpt: Estimating turkey cooking times with science.
 image: 2012-11-24-20.20.54.jpg
 wordpress_id: 2785
 wordpress_url: http://www.danallan.com/?p=2785
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags: []
 ---
 

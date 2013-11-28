@@ -4,13 +4,7 @@ title: Weird Glass
 image: intense-glow.jpg
 wordpress_id: 264
 wordpress_url: http://www.danallan.com/?p=264
-categories:
-- title: Science Demos
-  slug: science-demos
-  autoslug: science-demos
-- title: Projects
-  slug: projects
-  autoslug: projects
+categories: projects science-demos
 tags: []
 ---
 

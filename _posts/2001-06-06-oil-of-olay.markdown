@@ -4,16 +4,7 @@ title: Oil of Olay
 image: oilofolay.jpg
 wordpress_id: 37
 wordpress_url: http://www.danallan.com/?p=37
-categories:
-- title: High School
-  slug: hs
-  autoslug: high-school
-- title: The Attic
-  slug: attic
-  autoslug: the-attic
-- title: Photoshop Creations
-  slug: hs-photos
-  autoslug: photoshop-creations
+categories: the-attic high-school photoshop-creations
 tags:
 - title: Star Wars
   slug: star-wars

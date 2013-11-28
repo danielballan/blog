@@ -3,10 +3,7 @@ layout: post
 title: Parting Shots
 wordpress_id: 2718
 wordpress_url: http://www.danallan.com/?p=2718
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags: []
 ---
 

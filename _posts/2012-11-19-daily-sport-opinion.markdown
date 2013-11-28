@@ -3,10 +3,7 @@ layout: post
 title: Daily Sport Opinion
 wordpress_id: 2782
 wordpress_url: http://www.danallan.com/?p=2782
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags: []
 ---
 

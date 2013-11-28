@@ -4,10 +4,7 @@ title: Harris the Robot
 image: robot-thumbnail.png
 wordpress_id: 1489
 wordpress_url: http://www.danallan.com/?p=1489
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags:
 - title: PR2
   slug: pr2

@@ -5,10 +5,7 @@ excerpt: a crude but delicious likeness
 image: man-woman-cookie.jpg
 wordpress_id: 2973
 wordpress_url: http://www.danallan.com/?p=2973
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags: []
 ---
 [![man-woman-statue](http://www.danallan.com/wp-content/uploads/2012/12/man-woman-statue.jpg)](http://www.danallan.com/wp-content/uploads/2012/12/man-woman-statue.jpg)[![man-woman-cookie](http://www.danallan.com/wp-content/uploads/2012/12/man-woman-cookie-425x570.jpg)](http://www.danallan.com/wp-content/uploads/2012/12/man-woman-cookie.jpg)> 

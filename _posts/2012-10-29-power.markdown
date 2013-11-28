@@ -3,10 +3,7 @@ layout: post
 title: Power
 wordpress_id: 2652
 wordpress_url: http://www.danallan.com/?p=2652
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags: []
 ---
 

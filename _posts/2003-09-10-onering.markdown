@@ -4,16 +4,7 @@ title: One Ring
 image: ring.jpg
 wordpress_id: 59
 wordpress_url: http://www.danallan.com/?p=59
-categories:
-- title: High School
-  slug: hs
-  autoslug: high-school
-- title: The Attic
-  slug: attic
-  autoslug: the-attic
-- title: Photoshop Creations
-  slug: hs-photos
-  autoslug: photoshop-creations
+categories: the-attic high-school photoshop-creations
 tags:
 - title: Mr. Hurd
   slug: mr-hurd

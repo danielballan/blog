@@ -3,10 +3,7 @@ layout: post
 title: What shall I call thee when thou art a man?
 wordpress_id: 2709
 wordpress_url: http://www.danallan.com/?p=2709
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags: []
 ---
 

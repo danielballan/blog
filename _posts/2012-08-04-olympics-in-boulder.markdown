@@ -4,13 +4,7 @@ title: Olympics in Boulder
 image: swimmer.jpg
 wordpress_id: 1859
 wordpress_url: http://www.danallan.com/?p=1859
-categories:
-- title: Science Demos
-  slug: science-demos
-  autoslug: science-demos
-- title: Projects
-  slug: projects
-  autoslug: projects
+categories: projects science-demos
 tags: []
 ---
 

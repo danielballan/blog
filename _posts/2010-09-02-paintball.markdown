@@ -4,13 +4,7 @@ title: Paintball in the Lab
 image: paintball-setup.jpg
 wordpress_id: 1128
 wordpress_url: http://www.danallan.com/?p=1128
-categories:
-- title: Science Demos
-  slug: science-demos
-  autoslug: science-demos
-- title: Projects
-  slug: projects
-  autoslug: projects
+categories: projects science-demos
 tags:
 - title: high-speed photography
   slug: high-speed-photography

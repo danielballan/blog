@@ -3,10 +3,7 @@ layout: post
 title: The Audacity of Dispair
 wordpress_id: 2967
 wordpress_url: http://www.danallan.com/?p=2967
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags: []
 ---
 

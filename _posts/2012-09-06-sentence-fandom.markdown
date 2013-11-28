@@ -3,10 +3,7 @@ layout: post
 title: Sentence Fandom
 wordpress_id: 2341
 wordpress_url: http://www.danallan.com/?p=2341
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags:
 - title: writing
   slug: writing

@@ -3,10 +3,7 @@ layout: post
 title: Winter is Coming
 wordpress_id: 3005
 wordpress_url: http://www.danallan.com/?p=3005
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags: []
 ---
 

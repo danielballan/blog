@@ -3,10 +3,7 @@ layout: post
 title: Government as a Platform
 wordpress_id: 2398
 wordpress_url: http://www.danallan.com/?p=2398
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags: []
 ---
 ![](http://www.danallan.com/wp-content/uploads/2012/10/slide-39-728-124x171.jpg "slide-39-728")

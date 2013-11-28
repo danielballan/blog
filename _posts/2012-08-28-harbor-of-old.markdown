@@ -3,10 +3,7 @@ layout: post
 title: The Harbor of Old
 wordpress_id: 2315
 wordpress_url: http://www.danallan.com/?p=2315
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags:
 - title: Baltimore
   slug: baltimore

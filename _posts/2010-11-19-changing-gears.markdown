@@ -15,13 +15,7 @@ excerpt: "<img class=\"aligncenter size-medium wp-image-1217\" title=\"The physi
 image: bike-physics.jpg
 wordpress_id: 1207
 wordpress_url: http://www.danallan.com/?p=1207
-categories:
-- title: Science Demos
-  slug: science-demos
-  autoslug: science-demos
-- title: Projects
-  slug: projects
-  autoslug: projects
+categories: projects science-demos
 tags:
 - title: mechanical advantage
   slug: mechanical-advantage

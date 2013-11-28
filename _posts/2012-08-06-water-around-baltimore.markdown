@@ -3,10 +3,7 @@ layout: post
 title: Water around Baltimore
 wordpress_id: 1945
 wordpress_url: http://www.danallan.com/?p=1945
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags:
 - title: Baltimore
   slug: baltimore

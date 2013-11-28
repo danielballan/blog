@@ -4,13 +4,7 @@ title: Popsicle Stick Bombs
 image: four-sticks.jpg
 wordpress_id: 370
 wordpress_url: http://www.danallan.com/?p=370
-categories:
-- title: Science Demos
-  slug: science-demos
-  autoslug: science-demos
-- title: Projects
-  slug: projects
-  autoslug: projects
+categories: projects science-demos
 tags: []
 ---
 

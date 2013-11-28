@@ -4,16 +4,7 @@ title: Breaking Bobby-O
 image: bighead.jpg
 wordpress_id: 87
 wordpress_url: http://www.danallan.com/?p=87
-categories:
-- title: High School
-  slug: hs
-  autoslug: high-school
-- title: The Attic
-  slug: attic
-  autoslug: the-attic
-- title: Photoshop Creations
-  slug: hs-photos
-  autoslug: photoshop-creations
+categories: the-attic high-school photoshop-creations
 tags:
 - title: Katie
   slug: katie

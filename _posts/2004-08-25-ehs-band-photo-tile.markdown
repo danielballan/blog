@@ -4,16 +4,7 @@ title: EHS Band Photo Tile
 image: bandphototile_large.jpg
 wordpress_id: 68
 wordpress_url: http://www.danallan.com/?p=68
-categories:
-- title: High School
-  slug: hs
-  autoslug: high-school
-- title: The Attic
-  slug: attic
-  autoslug: the-attic
-- title: Photoshop Creations
-  slug: hs-photos
-  autoslug: photoshop-creations
+categories: the-attic high-school photoshop-creations
 tags:
 - title: Mr. Borsz
   slug: mr-borsz

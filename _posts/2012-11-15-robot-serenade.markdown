@@ -3,10 +3,7 @@ layout: post
 title: Robot Serenade
 wordpress_id: 2767
 wordpress_url: http://www.danallan.com/?p=2767
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags: []
 ---
 

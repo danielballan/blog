@@ -3,10 +3,7 @@ layout: post
 title: Olympian Vitals
 wordpress_id: 2018
 wordpress_url: http://www.danallan.com/?p=2018
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags:
 - title: Olympics
   slug: olympics

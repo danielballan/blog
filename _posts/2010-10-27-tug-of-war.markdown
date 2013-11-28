@@ -4,13 +4,7 @@ title: Tug of War with Pulleys
 image: DSC0044.jpg
 wordpress_id: 1189
 wordpress_url: http://www.danallan.com/?p=1189
-categories:
-- title: Science Demos
-  slug: science-demos
-  autoslug: science-demos
-- title: Projects
-  slug: projects
-  autoslug: projects
+categories: projects science-demos
 tags:
 - title: Baltimore Talent Development High School
   slug: baltimore-talent-development-high-school

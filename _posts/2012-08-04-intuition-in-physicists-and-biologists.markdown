@@ -3,10 +3,7 @@ layout: post
 title: Intuition, in physicists and biologists
 wordpress_id: 1922
 wordpress_url: http://www.danallan.com/?p=1922
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags:
 - title: physics
   slug: physics

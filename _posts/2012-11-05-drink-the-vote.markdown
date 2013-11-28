@@ -3,10 +3,7 @@ layout: post
 title: Become a More Informed Voter Through Powerpoint and Drinking
 wordpress_id: 2659
 wordpress_url: http://www.danallan.com/?p=2659
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags: []
 ---
 

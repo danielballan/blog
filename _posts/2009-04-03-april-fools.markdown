@@ -14,13 +14,7 @@ excerpt: "After hearing several hours of lecture from Dr. C.Y. Chien on \"Order 
 image: page_1.png
 wordpress_id: 618
 wordpress_url: http://www.danallan.com/?p=618
-categories:
-- title: Science Demos
-  slug: science-demos
-  autoslug: science-demos
-- title: Projects
-  slug: projects
-  autoslug: projects
+categories: projects science-demos
 tags:
 - title: balloons
   slug: balloons

@@ -3,10 +3,7 @@ layout: post
 title: Chocolate Guinness Milkshakes
 wordpress_id: 2387
 wordpress_url: http://www.danallan.com/?p=2387
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
+categories: notes
 tags:
 - title: food
   slug: food-2

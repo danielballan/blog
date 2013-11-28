@@ -4,11 +4,7 @@ title: The Pedestrian
 image: Picture-1.png
 wordpress_id: 1555
 wordpress_url: http://www.danallan.com/?p=1555
-categories:
-- title: Notes &amp; Adventures
-  slug: notes
-  autoslug: notes-&amp;-adventures
-tags:
+categories: notes
 - title: Ray Bradbury
   slug: ray-bradbury
   autoslug: ray-bradbury

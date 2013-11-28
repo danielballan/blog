@@ -4,13 +4,7 @@ title: Photomosaics
 image: matt-kilroy.jpg
 wordpress_id: 2553
 wordpress_url: http://www.danallan.com/?p=2553
-categories:
-- title: Projects
-  slug: projects
-  autoslug: projects
-- title: Computing
-  slug: computing
-  autoslug: computing
+categories: projects computing
 tags: []
 ---
 [![](http://www.danallan.com/wp-content/uploads/2012/10/neil-armstrong.jpg "neil-armstrong")](http://www.danallan.com/wp-content/uploads/2012/10/neil-armstrong.jpg)
