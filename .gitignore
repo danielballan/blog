@@ -1,3 +1,5 @@
 _site
+Gemfile
 Capfile
 config/*
+.tweet_cache/*
