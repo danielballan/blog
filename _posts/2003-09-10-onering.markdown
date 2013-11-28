@@ -1,0 +1,33 @@
+---
+layout: post
+title: One Ring
+image: ring.jpg
+wordpress_id: 59
+wordpress_url: http://www.danallan.com/?p=59
+categories:
+- title: High School
+  slug: hs
+  autoslug: high-school
+- title: The Attic
+  slug: attic
+  autoslug: the-attic
+- title: Photoshop Creations
+  slug: hs-photos
+  autoslug: photoshop-creations
+tags:
+- title: Mr. Hurd
+  slug: mr-hurd
+  autoslug: mr.-hurd
+- title: Ring of Power
+  slug: ring-of-power
+  autoslug: ring-of-power
+- title: Lord of the Rings
+  slug: lord-of-the-rings
+  autoslug: lord-of-the-rings
+- title: detention
+  slug: detention
+  autoslug: detention
+---
+
+A close look reveals the source of Mr. Hurd's malevolence.
+_"The Ring of Power corrupts the hearts of men.  Even <span style="text-decoration: line-through;">kings</span> history teachers cannot withstand its power." - Gandalf the Grey. _[![](http://www.danallan.com/wp-content/uploads/2008/08/ring.jpg "One Ring")](http://www.danallan.com/wp-content/uploads/2008/08/ring.jpg)

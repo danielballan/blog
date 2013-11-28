@@ -1,0 +1,13 @@
+---
+layout: post
+title: For Y'all Who Use Multiple Computers
+wordpress_id: 2961
+wordpress_url: http://www.danallan.com/?p=2961
+categories:
+- title: Notes &amp; Adventures
+  slug: notes
+  autoslug: notes-&amp;-adventures
+tags: []
+---
+
+I read a [nifty suggestion](http://stackoverflow.com/questions/1960799/using-gitdropbox-together-effectively) for combining Dropbox with version control. Smart and very convenient.
