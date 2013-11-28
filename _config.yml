@@ -1,3 +1,4 @@
 name: DanAllan.com
 markdown: redcarpet
 pygments: true
+permalink: :categories/:year/:title
