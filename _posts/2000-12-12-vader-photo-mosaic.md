@@ -7,4 +7,6 @@ wordpress_url: http://www.danallan.com/?p=1627
 categories: the-attic high-school photoshop-creations
 tags: []
 ---
-Using _Phototile_, nifty software which is unfortunately no longer distributed.[![](http://www.danallan.com/wp-content/uploads/2011/11/vadermosaic.jpg "vadermosaic")](http://www.danallan.com/wp-content/uploads/2011/11/vadermosaic.jpg)
+Update: I created this with _Phototile_, which is no longer available. More recently, I wrote software of my own that can do this.
+
+![Darth Vader from assembled Star Wars-related images]({% asset_path vadermosaic.jpg %})

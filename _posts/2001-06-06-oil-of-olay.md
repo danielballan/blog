@@ -16,4 +16,4 @@ tags:
   slug: oil-of-olay
   autoslug: oil-of-olay
 ---
-[![](http://www.danallan.com/wp-content/uploads/2008/08/oilofolay.jpg "Oil of Olay")](http://www.danallan.com/wp-content/uploads/2008/08/oilofolay.jpg)
+![Oil of Olay]({% asset_path oilofolay.jpg %})
