@@ -1,4 +1,4 @@
 name: DanAllan.com
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 permalink: :categories/:year/:title

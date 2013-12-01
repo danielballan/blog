@@ -5,6 +5,7 @@ image: hovering-bubbles-2.jpg
 wordpress_id: 426
 wordpress_url: http://www.danallan.com/?p=426
 categories: projects science-demos
+tags:
 - title: bubbles
   slug: bubbles
   autoslug: bubbles

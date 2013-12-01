@@ -9,6 +9,7 @@ tags: []
 
 What else but the title of [a blog by David Simon](http://davidsimon.com/), former _Baltimore Sun_ reporter?
 
-The blog is old news — his first post was in April — but I only just discovered it and caught up. Two of my favorites:- [his editorial](http://davidsimon.com/a-brutal-reprise-in-florida/) on the Stand Your Ground law
-- an old [anecdote](http://davidsimon.com/you-did-it-mr-bernstein-now-own-it/) on a famous Baltimore mayor confronted with a lie
+The blog is old news — his first post was in April — but I only just discovered it and caught up. Two of my favorites:
 
+* [his editorial](http://davidsimon.com/a-brutal-reprise-in-florida/) on the Stand Your Ground law
+* an old [anecdote](http://davidsimon.com/you-did-it-mr-bernstein-now-own-it/) on a famous Baltimore mayor caught in a lie
