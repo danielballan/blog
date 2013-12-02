@@ -100,7 +100,7 @@ facebook_like: false
 # Plugin: jekyll-assets
 assets:
   dirname: assets
-  baseurl: http://blog.danallan.com/assets/
+  baseurl: /assets/
   sources:
     - _assets/images
     - _assets/imgs
