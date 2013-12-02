@@ -4,3 +4,4 @@ Capfile
 config/
 .tweet-cache/
 .sass-cache/
+.public
