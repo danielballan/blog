@@ -1,6 +1,6 @@
 Gemfile
 Gemfile.lock
 Capfile
-config/*
-.tweet_cache/*
-.sass_cache/*
+config/
+.tweet-cache/
+.sass-cache/
