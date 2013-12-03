@@ -6,7 +6,6 @@ wordpress_url: http://www.danallan.com/?p=2967
 categories: notes
 tags: []
 ---
-
 What else but the title of [a blog by David Simon](http://davidsimon.com/), former _Baltimore Sun_ reporter?
 
 The blog is old news — his first post was in April — but I only just discovered it and caught up. Two of my favorites:

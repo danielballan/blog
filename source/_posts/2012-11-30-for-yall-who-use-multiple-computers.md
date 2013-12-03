@@ -6,5 +6,4 @@ wordpress_url: http://www.danallan.com/?p=2961
 categories: notes
 tags: []
 ---
-
 I read a [nifty suggestion](http://stackoverflow.com/questions/1960799/using-gitdropbox-together-effectively) for combining Dropbox with version control. Smart and very convenient.
