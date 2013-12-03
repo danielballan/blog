@@ -14,6 +14,6 @@ tags:
 ---
 I spent the weekend at ILHC, where dancers from around the world come to make a name for themselves. (Or, in my case, to watch.) In the marquee "Invitational Jack & Jill" competition, there weren't enough ladies to go around. No problem: two guys passed a partner back and forth in turns. And then it grew....
 
-{% youtube 6-GRtdkLVS %}
+{% youtube 6-GRtdkLVSI %}
 
 The camera work improves after a few seconds, once the cameraman stands up. I was close by, yelling in appreciation.
