@@ -65,6 +65,7 @@ DEPENDENCIES
   haml (~> 3.1.7)
   jekyll (~> 0.12)
   jekyll-assets (~> 0.4.0)
+  kramdown
   liquid (~> 2.3.0)
   pygments.rb (~> 0.3.4)
   rake (~> 0.9)
