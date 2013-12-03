@@ -28,9 +28,10 @@ module Jekyll
       end
 
       Dir.chdir(file_path) do
-        system("ipython nbconvert %s --to html" % file)
+        system("ipython nbconvert %s --to html --template basic " % file)
         converted_file = Pathname.new(File.basename(@file, '.ipynb') + ".html")
         contents = converted_file.read
+        FileUtils.rm converted_file.expand_path
         contents
       end
     end
