@@ -103,6 +103,7 @@ assets:
   baseurl: /assets/
   sources:
     - _assets/images
+    - _assets/papers
     - _assets/imgs
     - _assets/fancybox
     - _assets/javascripts

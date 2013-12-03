@@ -11,7 +11,7 @@ On the last day [Boulder School for Condensed Matter Physics](http://boulder.res
 
 ![a swimmer at low Reynolds number]({% asset_path swimmer.jpg %})
 
-Next, we erupted Diet Coke with Mentos, competing to make the highest fountain. A paper in the _American Journal of Physics_ found that [there are many important factors](http://www.danallan.com/wp-content/uploads/2012/08/Coffey-Diet-Coke-and-Mentos-What-is-really-behind-this-physical-reaction-2008.pdf). For us, the key tricks were warming the soda beforehand and forcing the geyser through a small hole. We won that challenge handily.
+Next, we erupted Diet Coke with Mentos, competing to make the highest fountain. A paper in the _American Journal of Physics_ found that [there are many important factors]({% asset_path Coffey-Diet-Coke-and-Mentos-What-is-really-behind-this-physical-reaction-2008.pdf %}). For us, the key tricks were warming the soda beforehand and forcing the geyser through a small hole. We won that challenge handily.
 
 ![our geyser]({% asset_path mentos1.jpg %})
 

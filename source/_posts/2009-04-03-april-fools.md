@@ -32,9 +32,24 @@ tags:
   slug: fermi-estimate
   autoslug: fermi-estimate
 ---
-
 After hearing several hours of lecture from Dr. C.Y. Chien on Fermi estimation problems, the physics grad students felt we owed _him_ one. We invited Dr. Chien and the physics department at large to make their own estimate: how many balloons does it take to fill the foyer in the main office?
-![page_1](http://www.danallan.com/wp-content/uploads/2009/04/page_1.png "page_1")![page_2](http://www.danallan.com/wp-content/uploads/2009/04/page_2.png "page_2")![page_3](http://www.danallan.com/wp-content/uploads/2009/04/page_3.png "page_3")![page_4](http://www.danallan.com/wp-content/uploads/2009/04/page_4.png "page_4")![page_5](http://www.danallan.com/wp-content/uploads/2009/04/page_5.png "page_5")![page_6](http://www.danallan.com/wp-content/uploads/2009/04/page_6.png "page_6")![page_7](http://www.danallan.com/wp-content/uploads/2009/04/page_7.png "page_7")![page_8](http://www.danallan.com/wp-content/uploads/2009/04/page_8.png "page_8")![page_9](http://www.danallan.com/wp-content/uploads/2009/04/page_9.png "page_9")![page_10](http://www.danallan.com/wp-content/uploads/2009/04/page_10.png "page_10")![page_11](http://www.danallan.com/wp-content/uploads/2009/04/page_11.png "page_11")![page_12](http://www.danallan.com/wp-content/uploads/2009/04/page_12.png "page_12")**Numbers:**- Total balloons inflated, filling foyer &amp; mailroom: **2500**
-- Balloons filling foyer only: **1670 +/- 20 **(some popped)
-- Our initial estimate for foyer only: **1400** (based filling a 3-meter cube with 30-cm balloons at 72% packing efficiency)
+
+![]({% asset_path april_fools_balloons_page_1.png %})
+![]({% asset_path april_fools_balloons_page_2.png %})
+![]({% asset_path april_fools_balloons_page_3.png %})
+![]({% asset_path april_fools_balloons_page_4.png %})
+![]({% asset_path april_fools_balloons_page_5.png %})
+![]({% asset_path april_fools_balloons_page_6.png %})
+![]({% asset_path april_fools_balloons_page_7.png %})
+![]({% asset_path april_fools_balloons_page_8.png %})
+![]({% asset_path april_fools_balloons_page_9.png %})
+![]({% asset_path april_fools_balloons_page_10.png %})
+![]({% asset_path april_fools_balloons_page_11.png %})
+![]({% asset_path april_fools_balloons_page_12.png %})
+
+## Figures
+
+* Total balloons inflated, filling foyer &amp; mailroom: **2500**
+* Balloons filling foyer only: **1670 +/- 20 ** (some popped)
+* Our initial estimate for foyer only: **1400** (based filling a 3-meter cube with 30-cm balloons at 72% packing efficiency)
 - Time to fill foyer: **3 1/2 hours** with 6-8 people working at any given time
