@@ -9,11 +9,11 @@ tags: []
 ---
 On the last day [Boulder School for Condensed Matter Physics](http://boulder.research.yale.edu/Boulder-2012/index.html), a month-long program for young researchers, we formed teams for competitions. Here's one of our entries in Physics Charades: "a swimmer at low Reynolds number."
 
-[![](http://www.danallan.com/wp-content/uploads/2012/08/swimmer.jpg "swimmer")](http://www.danallan.com/wp-content/uploads/2012/08/swimmer.jpg)
+![a swimmer at low Reynolds number]({% asset_path swimmer.jpg %})
 
 Next, we erupted Diet Coke with Mentos, competing to make the highest fountain. A paper in the _American Journal of Physics_ found that [there are many important factors](http://www.danallan.com/wp-content/uploads/2012/08/Coffey-Diet-Coke-and-Mentos-What-is-really-behind-this-physical-reaction-2008.pdf). For us, the key tricks were warming the soda beforehand and forcing the geyser through a small hole. We won that challenge handily.
 
-[![](http://www.danallan.com/wp-content/uploads/2012/08/mentos1.jpeg "mentos1")](http://www.danallan.com/wp-content/uploads/2012/08/mentos1.jpeg)
+![our geyser]({% asset_path mentos1.jpg %})
 
 Finally, each team invented a competition for the others. These are the rules of our invention, written for fellow physicists.
 
@@ -21,7 +21,7 @@ Finally, each team invented a competition for the others. These are the rules of
 
 Sixteen team members stand in a 4x4 array. Each person may stand ("spin up") or sit ("spin down") at will.
 
-[![](http://www.danallan.com/wp-content/uploads/2012/08/spin_glass.jpg "spin_glass")](http://www.danallan.com/wp-content/uploads/2012/08/spin_glass.jpg) 
+![human spin glass]({% asset_path spin_glass.jpg %})
 
 We will give each person a card with four small integers. These represent "couplings" to neighbors in the array. For example, a +2 at the top of the card means that if I am in the same state the person in front of me, I earn 2 points for my team. I lose 2 points if we are in different states. Likewise, a -1 on the right of the card means I earn 1 point if I'm in the opposite state from the neighbor to my right, and I lose 1 point if we are the same.
 
