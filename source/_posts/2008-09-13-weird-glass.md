@@ -23,8 +23,9 @@ The flashlight itself has four ultraviolet LEDs. To our eyes, it looks dim and v
 
 ![]({% asset_path taper-magnify-150x112.jpg %})
 
-A magnifying glass works by bending the light reflecting from an object to create a larger image. This "taper optic" works in a totally different way. Notice how it is different from a magnifying glass:- A magnifying glass distorts the image, especially around the edges. The taper optic's image is flat.
+A magnifying glass works by bending the light reflecting from an object to create a larger image. This "taper optic" works in a totally different way. Notice how it is different from a magnifying glass:
 
+* A magnifying glass distorts the image, especially around the edges. The taper optic's image is flat.
 * A magnifying glass has to be held just  to get the words into focus. The taper optic sits flat on the page. Words look as if they are written in large print directly on the glass.
 * A magnifying glass focuses a bright spot at the center of its view and it darkens the rest. The taper optic illuminates its subject evenly.
 

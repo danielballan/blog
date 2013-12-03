@@ -1907,6 +1907,11 @@ body > footer p:last-child {
   display: block;
 }
 
+pre {
+  border: 1px solid #cfcfcf;
+  background: #f7f7f7;
+}
+
 .embed-video-container {
   position: relative;
   /* padding-bottom: 56.25%; */
