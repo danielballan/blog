@@ -110,8 +110,8 @@ assets:
     - _assets/jwplayer
     - _assets/stylesheets
     - _assets/webfonts
-  compress:
-    js:   'yui'
-    css:  'yui'
+#  compress:
+#    js:   'yui'
+#    css:  'yui'
   cachebust: hard
   gzip: [ text/css, application/javascript ]

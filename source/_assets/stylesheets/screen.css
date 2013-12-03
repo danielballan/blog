@@ -1904,6 +1904,7 @@ body > footer p:last-child {
 */
 .gallery {
   height: 171px;
+  display: block;
 }
 
 .embed-video-container {
