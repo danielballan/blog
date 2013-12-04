@@ -2,8 +2,8 @@
 layout: page
 title: "research"
 date: 2013-12-03 16:15
-comments: true
-sharing: true
+comments: false 
+sharing: false 
 footer: true
 ---
 ### In one breath

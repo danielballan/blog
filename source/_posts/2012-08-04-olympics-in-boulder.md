@@ -5,6 +5,7 @@ image: swimmer.jpg
 wordpress_id: 1859
 wordpress_url: http://www.danallan.com/?p=1859
 categories: projects science-demos
+comments: true
 tags: []
 ---
 On the last day [Boulder School for Condensed Matter Physics](http://boulder.research.yale.edu/Boulder-2012/index.html), a month-long program for young researchers, we formed teams for competitions. Here's one of our entries in Physics Charades: "a swimmer at low Reynolds number."

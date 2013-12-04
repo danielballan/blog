@@ -2,8 +2,8 @@
 layout: page
 title: "contact"
 date: 2013-12-03 16:18
-comments: true
-sharing: true
+comments: false 
+sharing: false
 footer: true
 ---
 Daniel B. Allan  

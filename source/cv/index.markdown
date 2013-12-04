@@ -2,8 +2,8 @@
 layout: page
 title: "Curriculum Vitae"
 date: 2013-12-03 15:33
-comments: true
-sharing: true
+comments: false 
+sharing: false 
 footer: true
 ---
 ## Education

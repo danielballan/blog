@@ -4,6 +4,7 @@ title: Winter is Coming
 wordpress_id: 3005
 wordpress_url: http://www.danallan.com/?p=3005
 categories: notes
+comments: true
 tags: []
 ---
 I coauthored an astrophysics paper, [Winter is Coming](http://arxiv.org/pdf/1304.0445v1.pdf), submitted to the physics arxiv on April 1, in which the irregular seasons of _Game of Thrones_ are explained in astrophysical terms. Veselin Kostov did all the hard science; I am responsible for the plots and some of the writing.

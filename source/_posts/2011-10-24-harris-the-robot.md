@@ -5,6 +5,7 @@ image: robot-thumbnail.png
 wordpress_id: 1489
 wordpress_url: http://www.danallan.com/?p=1489
 categories: notes
+comments: true
 tags:
 - title: PR2
   slug: pr2

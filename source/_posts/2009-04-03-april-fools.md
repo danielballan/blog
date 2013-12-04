@@ -14,6 +14,7 @@ excerpt: "After hearing several hours of lecture from Dr. C.Y. Chien on \"Order 
 image: page_1.png
 wordpress_id: 618
 wordpress_url: http://www.danallan.com/?p=618
+comments: true
 categories: projects science-demos
 tags:
 - title: balloons

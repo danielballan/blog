@@ -5,6 +5,7 @@ image: matt-kilroy.jpg
 wordpress_id: 2553
 wordpress_url: http://www.danallan.com/?p=2553
 categories: projects computing
+comments: true
 tags: []
 ---
 ![]({% asset_path neil-armstrong.jpg %})

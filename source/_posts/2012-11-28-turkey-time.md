@@ -6,6 +6,7 @@ image: 2012-11-24-20.20.54.jpg
 wordpress_id: 2785
 wordpress_url: http://www.danallan.com/?p=2785
 categories: notes
+comments: true
 tags: []
 ---
 Ways to estimate turkey cooking times:

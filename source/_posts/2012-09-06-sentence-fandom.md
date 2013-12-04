@@ -4,6 +4,7 @@ title: Sentence Fandom
 wordpress_id: 2341
 wordpress_url: http://www.danallan.com/?p=2341
 categories: notes
+comments: true
 tags:
 - title: writing
   slug: writing

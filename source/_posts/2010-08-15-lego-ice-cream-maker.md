@@ -5,6 +5,7 @@ image: DSC0310.NEF_.jpg
 wordpress_id: 1018
 wordpress_url: http://www.danallan.com/?p=1018
 categories: projects contraptions
+comments: true
 tags:
 - title: Cooking for Geeks
   slug: cooking-for-geeks

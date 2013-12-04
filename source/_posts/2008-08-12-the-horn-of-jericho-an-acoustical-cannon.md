@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'The Horn of Jericho: An Acoustical Cannon'
+comments: true
 excerpt: "With a giant glass pipe, a slice of ceramic cut from a diesel exhaust system,
   and a strip of toaster wire, I built an acoustical cannon: The Horn of Jericho.
   \ It is the brainchild of John Wight, a research scientist at Corning Incorporated,

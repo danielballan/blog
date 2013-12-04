@@ -4,6 +4,7 @@ title: The Audacity of Dispair
 wordpress_id: 2967
 wordpress_url: http://www.danallan.com/?p=2967
 categories: notes
+comments: true
 tags: []
 ---
 What else but the title of [a blog by David Simon](http://davidsimon.com/), former _Baltimore Sun_ reporter?

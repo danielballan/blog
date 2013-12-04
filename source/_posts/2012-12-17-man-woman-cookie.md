@@ -6,6 +6,7 @@ image: man-woman-cookie.jpg
 wordpress_id: 2973
 wordpress_url: http://www.danallan.com/?p=2973
 categories: notes
+comments: true
 tags: []
 ---
 ![man-woman statue]({% asset_path man-woman-statue.jpg %})

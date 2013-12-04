@@ -4,6 +4,7 @@ title: Intuition, in physicists and biologists
 wordpress_id: 1922
 wordpress_url: http://www.danallan.com/?p=1922
 categories: notes
+comments: true
 tags:
 - title: physics
   slug: physics

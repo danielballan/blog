@@ -4,6 +4,7 @@ title: Become a More Informed Voter Through Powerpoint and Drinking
 wordpress_id: 2659
 wordpress_url: http://www.danallan.com/?p=2659
 categories: notes
+comments: true
 tags: []
 ---
 Skim this guide to the issues on the Maryland ballot, compiled from a night of drinking and arguing with Jim Murray, Justin Rogers, Maya Buchanan, Kelly Stallard, Steph Rabe, and Nik Hartman, who conceived this scheme. Scroll through our slides over a drink tonight to get up to speed the fun way.

@@ -16,6 +16,7 @@ image: bike-physics.jpg
 wordpress_id: 1207
 wordpress_url: http://www.danallan.com/?p=1207
 categories: projects science-demos
+comments: true
 tags:
 - title: mechanical advantage
   slug: mechanical-advantage
