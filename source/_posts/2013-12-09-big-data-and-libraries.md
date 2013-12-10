@@ -13,3 +13,4 @@ In October, Johns Hopkins launched an institude for big data, dubbed [idies](htt
 
 http://jakevdp.github.io/blog/2013/10/26/big-data-brain-drain/
 http://statweb.stanford.edu/~wavelab/Wavelab_850/wavelab.pdf
+http://serialmentor.com/blog/2013/11/3/no-one-reads-your-paper-either
