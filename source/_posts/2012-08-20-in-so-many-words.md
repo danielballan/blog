@@ -76,6 +76,8 @@ The database knows, with confidence, how I use the word "swing" in context.
 
 ## Under the hood.
 
+Update: Downloading a copy of your Gmail messages is now [much easier](http://gmailblog.blogspot.com/2013/12/download-copy-of-your-gmail-and-google.html).
+
 I downloaded my Gmail messages onto my local machine with ``getmail``. (I followed [these instructions](http://datalinkcontrol.net/dlc/content/gmail-backup-getmail).) A Python script extracted the body text from each email as a lowercase string. The script split the text into words with the blunt regular expression ``[a-z]+``. It inserted all of these words into one giant SQL table, identified by which email message they came from (``msg_id``) and their position in the message (``pos``)
 
 SQL is a convenient language for the questions I asked. For example, it's easy to group occurrences of the same word and tally them.
