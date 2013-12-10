@@ -16,4 +16,4 @@ Socca responds:
 
 I reread difficult books for better understanding; I reread beloved books as comfort food; I reread in search of certain half-forgotten turns of phrase. I do agree that Galdwell's stunts lose their punch after the first reading, after their absurd premise is explained.
 
-I'll follow Socca's unoptimistic reading list. The first entery, Mencken coverage of the Snopes Trial, is [online in the public domain](https://archive.org/stream/CoverageOfTheScopesTrialByH.l.Mencken/ScopesTrialMencken.txt).
+I'll follow Socca's unoptimistic reading list. The first entery, Mencken coverage of the Snopes Trial, is in the public domain. I rendered the [plain text archive](https://archive.org/stream/CoverageOfTheScopesTrialByH.l.Mencken/ScopesTrialMencken.txt) into [a more readable format]({% asset_path HL-Mencken-Snopes-Trial.html %}) using [Markdown](http://daringfireball.net/projects/markdown/dingus).
