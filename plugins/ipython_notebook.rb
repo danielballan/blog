@@ -6,8 +6,6 @@ module Jekyll
   class IPythonNotebookTag < Liquid::Tag
     include OctopressFilters
 
-    RENDERED_DIR = 'rendered_notebooks'
-
     def initialize(tag_name, markup, tokens)
       @file = nil
       @raw = false
