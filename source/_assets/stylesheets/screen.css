@@ -109,15 +109,15 @@ a {
 }
 
 html {
-  background: #f4f4ea url('/images/line-tile.png?1386605526') top left;
+  background: #f4f4ea url('/images/line-tile.png?1386014905') top left;
 }
 
 body > div {
-  background: #f2f2f2 url('/images/noise.png?1386605526') top left;
+  background: #f2f2f2 url('/images/noise.png?1386014905') top left;
   border-bottom: 1px solid #f2f2f2;
 }
 body > div > div {
-  background: white url('/images/noise.png?1386605526') top left;
+  background: white url('/images/noise.png?1386014905') top left;
   border-right: 1px solid #e0e0e0;
 }
 
@@ -821,7 +821,7 @@ body > nav ul {
 }
 
 .no-placeholder body > nav .search {
-  background: white url('/images/search.png?1386605526') 0.3em 0.25em no-repeat;
+  background: white url('/images/search.png?1386014905') 0.3em 0.25em no-repeat;
   text-indent: 1.3em;
 }
 
@@ -852,11 +852,11 @@ body > nav ul {
   padding: 0;
 }
 .maskImage a[rel=subscribe-rss], .maskImage a[rel=subscribe-rss]:after {
-  -webkit-mask-image: url('/images/rss.png?1386605526');
-  -moz-mask-image: url('/images/rss.png?1386605526');
-  -ms-mask-image: url('/images/rss.png?1386605526');
-  -o-mask-image: url('/images/rss.png?1386605526');
-  mask-image: url('/images/rss.png?1386605526');
+  -webkit-mask-image: url('/images/rss.png?1386014905');
+  -moz-mask-image: url('/images/rss.png?1386014905');
+  -ms-mask-image: url('/images/rss.png?1386014905');
+  -o-mask-image: url('/images/rss.png?1386014905');
+  mask-image: url('/images/rss.png?1386014905');
   -webkit-mask-repeat: no-repeat;
   -moz-mask-repeat: no-repeat;
   -ms-mask-repeat: no-repeat;
@@ -884,11 +884,11 @@ body > nav ul {
   padding: 0;
 }
 .maskImage a[rel=subscribe-email], .maskImage a[rel=subscribe-email]:after {
-  -webkit-mask-image: url('/images/email.png?1386605526');
-  -moz-mask-image: url('/images/email.png?1386605526');
-  -ms-mask-image: url('/images/email.png?1386605526');
-  -o-mask-image: url('/images/email.png?1386605526');
-  mask-image: url('/images/email.png?1386605526');
+  -webkit-mask-image: url('/images/email.png?1386014905');
+  -moz-mask-image: url('/images/email.png?1386014905');
+  -ms-mask-image: url('/images/email.png?1386014905');
+  -o-mask-image: url('/images/email.png?1386014905');
+  mask-image: url('/images/email.png?1386014905');
   -webkit-mask-repeat: no-repeat;
   -moz-mask-repeat: no-repeat;
   -ms-mask-repeat: no-repeat;
@@ -1110,7 +1110,7 @@ p.meta + .sharing {
   text-align: right;
   font-size: 13px;
   line-height: 1.45em;
-  background: #073642 url('/images/noise.png?1386605526') top left !important;
+  background: #073642 url('/images/noise.png?1386014905') top left !important;
   border-right: 1px solid #00232c !important;
   -webkit-box-shadow: #083e4b -1px 0 inset;
   -moz-box-shadow: #083e4b -1px 0 inset;
@@ -1178,7 +1178,7 @@ html .gist .gist-file .gist-meta {
   border: 1px solid #083e4b !important;
   color: #586e75;
   font-size: .7em !important;
-  background: #073642 url('/images/noise.png?1386605526') top left;
+  background: #073642 url('/images/noise.png?1386014905') top left;
   line-height: 1.5em;
 }
 html .gist .gist-file .gist-meta a {
@@ -1206,7 +1206,7 @@ html .gist .gist-file .gist-meta a[href*=raw] {
 }
 
 pre {
-  background: #002b36 url('/images/noise.png?1386605526') top left;
+  background: #002b36 url('/images/noise.png?1386014905') top left;
   -webkit-border-radius: 0.4em;
   -moz-border-radius: 0.4em;
   -ms-border-radius: 0.4em;
@@ -1260,7 +1260,7 @@ p pre code, li pre code {
   padding: .8em;
   overflow-x: auto;
   line-height: 1.45em;
-  background: #002b36 url('/images/noise.png?1386605526') top left !important;
+  background: #002b36 url('/images/noise.png?1386014905') top left !important;
   color: #93a1a1 !important;
   /* Comment */
   /* Comment.Multiline */
@@ -1552,7 +1552,7 @@ figure.code .highlight {
   -webkit-border-top-right-radius: 5px;
   border-top-right-radius: 5px;
   font-family: "Helvetica Neue", Arial, "Lucida Grande", "Lucida Sans Unicode", Lucida, sans-serif;
-  background: #aaaaaa url('/images/code_bg.png?1386605526') top repeat-x;
+  background: #aaaaaa url('/images/code_bg.png?1386014905') top repeat-x;
   border: 1px solid #565656;
   border-top-color: #cbcbcb;
   border-left-color: #a5a5a5;
@@ -1789,7 +1789,7 @@ aside.sidebar:hover a:hover {
     -webkit-border-bottom-right-radius: 0.3em;
     border-bottom-right-radius: 0.3em;
     text-align: center;
-    background: white url('/images/noise.png?1386605526') top left;
+    background: white url('/images/noise.png?1386014905') top left;
     border-bottom: 1px solid #e0e0e0;
     border-right: 1px solid #e0e0e0;
     content: "\00BB";
@@ -1910,6 +1910,10 @@ body > footer p:last-child {
 pre {
   border: 1px solid #cfcfcf;
   background: #f7f7f7;
+}
+
+.highlight {
+  margin-bottom: 0;
 }
 
 .embed-video-container {
