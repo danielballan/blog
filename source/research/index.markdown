@@ -8,7 +8,7 @@ footer: true
 ---
 ### In one breath
 
-I study the physics of soft materials, materials like layers of protein which are squishy in a complex way. I infuse them with tiny beads and, by studying how these beads move through the squishy medium, I investigate the medium’s mechanical properties.
+I study the physics of soft interfacial materials, like layes of protein that build up when a bowl of milk is left out in the air. Interfaces like this are squishy in a complex way. To investigate that, I infuse them with microscopically small beads. By studying how these beads move through and around the squishy interface, I can characterize its mechanical properties.
 
 ### In one elevator ride
 
@@ -23,8 +23,8 @@ I am studying under Robert L. Leheny in the Johns Hopkins Department of Physics 
 
 ### In a journal article? 
 
-Not quite yet.
+See the list of publications on my [CV](http://blog.danallan.com/cv).
 
 ### On GitHub
 
-Nearly all of my code is online in a [github repository](https://github.com/danielballan/mr). I have taken some pains to make it practical for others to use it; installation is simple, and the code is neatly structured and commented. Collaborators are welcome!
+Nearly all of my code is online in a [github repository](https://github.com/danielballan/mr). I have taken some pains to make it practical for others to use it; in fact it is now being used by several research groups. Installation is simple, and the code is neatly structured and documented. More collaborators are welcome!
